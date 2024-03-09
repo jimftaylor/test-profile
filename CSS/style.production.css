@@ -69,8 +69,7 @@ Secondary Color (red):#F54C00  ;
       -webkit-box-direction: normal;
           -ms-flex-direction: column;
               flex-direction: column;
-      text-align:  center;
-     align-items: flex-end;   
+      text-align:  center; 
     }
     .profile {
       max-width: 700px;
